@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.eg2.qa.testcases.IndiGoLoginPageTest" duration-ms="20690" started-at="2021-04-06T11:31:54 IST" finished-at="2021-04-06T11:32:15 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="20690" started-at="2021-04-06T11:31:54 IST" finished-at="2021-04-06T11:32:15 IST">
+      <class name="com.eg2.qa.testcases.IndiGoLoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.eg2.qa.testcases.IndiGoLoginPageTest@6ddf90b0]" name="setup" is-config="true" duration-ms="19979" started-at="2021-04-06T11:31:54 IST" finished-at="2021-04-06T11:32:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="indiGoLoginPageTest()[pri:0, instance:com.eg2.qa.testcases.IndiGoLoginPageTest@6ddf90b0]" name="indiGoLoginPageTest" duration-ms="594" started-at="2021-04-06T11:32:14 IST" finished-at="2021-04-06T11:32:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- indiGoLoginPageTest -->
+      </class> <!-- com.eg2.qa.testcases.IndiGoLoginPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.eg2.qa.testcases.IndiGoLoginPageTest -->
+</testng-results>
